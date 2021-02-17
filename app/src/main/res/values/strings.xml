@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">recyclerview and cardview</string>
+    <string name="image_content_description">Imagem de teste</string>
+    <string name="name_hint">Nome do contato</string>
+    <string name="phone_hint">Telefone do contato</string>
+    <string name="menu_1">Item 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
